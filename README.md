@@ -3,10 +3,17 @@ This repository showcases practical applications of MySQL for real-world scenari
 📂 Project Structure
 
 .
-├── schema/             # Table creation scripts and database structure
-├── data/               # Sample dataset insert scripts
-├── queries/            # SQL query scripts categorized by use-case
-│   ├── basic/          # Selection, filtering, and sorting
-│   ├── intermediate/   # Joins, aggregations, and subqueries
-│   └── advanced/       # Window functions and optimizations
-└── README.md        # Project documentation
+├── schema/        
+# Table creation scripts and database structure
+├── data/             
+# Sample dataset insert scripts
+├── queries/    
+# SQL query scripts categorized by use-case
+│   ├── basic/   
+# Selection, filtering, and sorting
+│   ├── intermediate/   
+# Joins, aggregations, and subqueries
+│   └── advanced/   
+# Window functions and optimizations
+└── README.md    
+# Project documentation
